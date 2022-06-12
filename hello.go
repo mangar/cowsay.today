@@ -9,9 +9,6 @@ import (
     "os"
 )
 
-// import "rsc.io/quote"
-
-
 
 type Response struct {
 	Timezone	string	`json:"timezone"`
